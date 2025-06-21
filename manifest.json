@@ -1,0 +1,16 @@
+
+{
+  "name": "GEOK Chat",
+  "short_name": "GEOK",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
