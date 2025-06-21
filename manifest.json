@@ -1,16 +1,13 @@
-
 {
-  "name": "GEOK Chat",
-  "short_name": "GEOK",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1a1a1a",
-  "icons": [
-    {
-      "src": "icon.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
-  ]
+    "name": "GEOK Chat",
+    "short_name": "GEOK",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "GEOK Chat Demo App",
+    "icons": [{
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    }]
 }
